@@ -1,0 +1,27 @@
+['low_SAT', '2_NP', 'low_SAL', '0_WA'] -> 1_L, lift = 335.573, confidence = 79.8942
+['low_SAT', '50_LE', '2_NP'] -> 1_L, lift = 328.921, confidence = 78.3103
+['low_SAT', '2_NP', '2_to_3_TSC'] -> 1_L, lift = 328.601, confidence = 78.2341
+['6_NP', '4_to_6_TSC', '0_WA'] -> 1_L, lift = 327.672, confidence = 78.0129
+['low_SAT', '50_LE', 'low_SAL', '0_WA'] -> 1_L, lift = 326.866, confidence = 77.821
+['low_SAT', '50_LE', '2_to_3_TSC', '0_WA'] -> 1_L, lift = 326.135, confidence = 77.6471
+['low_SAT', '2_NP', 'low_SAL'] -> 1_L, lift = 324.144, confidence = 77.173
+['120_AMH', '2_NP', 'low_SAL', '2_to_3_TSC', '0_WA'] -> 1_L, lift = 321.963, confidence = 76.6537
+['120_AMH', '50_LE', '2_NP', '2_to_3_TSC', '0_WA'] -> 1_L, lift = 321.32, confidence = 76.5006
+['low_SAT', 'low_SAL', '2_to_3_TSC', '0_WA'] -> 1_L, lift = 319.133, confidence = 75.98
+['low_SAT', '50_LE', '2_to_3_TSC'] -> 1_L, lift = 316.652, confidence = 75.3894
+['low_SAT', '50_LE', 'low_SAL'] -> 1_L, lift = 315.769, confidence = 75.179
+['6_NP', '4_to_6_TSC'] -> 1_L, lift = 313.249, confidence = 74.5791
+['low_SAT', '2_NP', '0_WA'] -> 1_L, lift = 312.9, confidence = 74.496
+['120_AMH', '50_LE', '2_NP', '2_to_3_TSC'] -> 1_L, lift = 309.804, confidence = 73.7589
+['120_AMH', '2_NP', 'low_SAL', '2_to_3_TSC'] -> 1_L, lift = 309.385, confidence = 73.6591
+['low_SAT', 'low_SAL', '2_to_3_TSC'] -> 1_L, lift = 309.183, confidence = 73.6111
+['very_low_SAT', '4_to_6_TSC', '70_LE'] -> 1_L, lift = 303.195, confidence = 72.1854
+['120_AMH', '2_NP', 'low_SAL', '0_WA'] -> 1_L, lift = 301.244, confidence = 71.7208
+['120_AMH', '50_LE', '2_NP', '0_WA'] -> 1_L, lift = 301.016, confidence = 71.6667
+['low_SAT', '2_NP'] -> 1_L, lift = 299.657, confidence = 71.3431
+['120_AMH', '2_NP', '2_to_3_TSC', '0_WA'] -> 1_L, lift = 297.873, confidence = 70.9184
+['30_LE', 'low_SAT', '0_WA'] -> 1_L, lift = 296.838, confidence = 70.6718
+['6_NP', 'low_SAL'] -> 1_L, lift = 296.773, confidence = 70.6564
+['low_SAT', '2_to_3_TSC', '0_WA'] -> 1_L, lift = 296.64, confidence = 70.6247
+['low_SAT', '50_LE', '0_WA'] -> 1_L, lift = 296.01, confidence = 70.4748
+['90_LE', '4_to_6_TSC', '4_NP', '0_WA'] -> 1_L, lift = 294.28, confidence = 70.0629

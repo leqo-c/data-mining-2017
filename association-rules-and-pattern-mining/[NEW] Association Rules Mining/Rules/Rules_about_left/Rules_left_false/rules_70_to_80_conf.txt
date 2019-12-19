@@ -1,0 +1,10 @@
+['70_LE', '0_WA'] -> 0_L, lift = 103.409, confidence = 78.7893
+['low_SAL', '2_to_3_TSC'] -> 0_L, lift = 103.29, confidence = 78.6982
+['50_LE', '0_WA'] -> 0_L, lift = 102.237, confidence = 77.8959
+['medium_SAL', '0_WA'] -> 0_L, lift = 101.634, confidence = 77.4369
+['high_SAT', '4_NP'] -> 0_L, lift = 100.715, confidence = 76.7364
+['50_LE', '2_to_3_TSC'] -> 0_L, lift = 100.104, confidence = 76.2712
+['low_SAL', '2_to_3_TSC', '0_WA'] -> 0_L, lift = 99.854, confidence = 76.0805
+['50_LE', '2_to_3_TSC', '0_WA'] -> 0_L, lift = 96.8216, confidence = 73.77
+['sales', '0_WA'] -> 0_L, lift = 95.4899, confidence = 72.7554
+['2_NP', '0_WA'] -> 0_L, lift = 93.9764, confidence = 71.6023

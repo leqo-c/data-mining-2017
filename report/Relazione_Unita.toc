@@ -1,0 +1,39 @@
+\select@language {italian}
+\select@language {italian}
+\contentsline {section}{\numberline {1}Data understanding}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Semantica dei dati}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Distribuzione degli attributi e statistiche}{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Valutazione della qualit\IeC {\`a} dei dati}{5}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Trasformazione degli attributi}{5}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Correlazione tra attributi ed eventuali variabili ridondanti}{5}{subsection.1.5}
+\contentsline {section}{\numberline {2}Analisi dei cluster}{6}{section.2}
+\contentsline {subsection}{\numberline {2.1}Clustering via K-means}{6}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Scelta degli attributi e della funzione distanza}{6}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Identificazione del miglior valore di k}{6}{subsubsection.2.1.2}
+\contentsline {paragraph}{Scelta del punto di gomito.}{7}{section*.6}
+\contentsline {subsubsection}{\numberline {2.1.3}Caratterizzazione dei clusters ottenuti}{7}{subsubsection.2.1.3}
+\contentsline {paragraph}{}{7}{section*.7}
+\contentsline {paragraph}{}{7}{section*.9}
+\contentsline {subsection}{\numberline {2.2}Clustering via DBSCAN}{7}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Studio dei parametri minPoints ed epsilon}{8}{subsubsection.2.2.1}
+\contentsline {paragraph}{}{8}{section*.12}
+\contentsline {subsubsection}{\numberline {2.2.2}Caratterizzazione ed interpretazione dei clusters}{9}{subsubsection.2.2.2}
+\contentsline {subsection}{\numberline {2.3}Clustering Gerarchico}{9}{subsection.2.3}
+\contentsline {paragraph}{Complete linkage.}{9}{section*.14}
+\contentsline {paragraph}{Average Linkage.}{9}{section*.16}
+\contentsline {paragraph}{Ward's method Linkage.}{9}{section*.18}
+\contentsline {paragraph}{Calcolo della silhouette.}{11}{section*.20}
+\contentsline {subsection}{\numberline {2.4}Valutazione del miglior metodo di clustering}{11}{subsection.2.4}
+\contentsline {section}{\numberline {3}Pattern e Association Rules mining}{11}{section.3}
+\contentsline {subsection}{\numberline {3.1}Operazioni preliminari}{11}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Estrazione degli itemset frequenti}{12}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Itemset massimali}{12}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Itemset chiusi}{13}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Itemset frequenti}{13}{subsubsection.3.2.3}
+\contentsline {subsection}{\numberline {3.3}Estrazione delle regole di associazione}{14}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Predizione dei valori mancanti}{16}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Predizione dell'attributo 'left'}{16}{subsubsection.3.3.2}
+\contentsline {section}{\numberline {4}Classificazione}{16}{section.4}
+\contentsline {subsection}{\numberline {4.1}Classificazione tramite alberi di decisione}{17}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Validazione dei modelli}{19}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Identificazione del miglior modello}{19}{subsection.4.3}

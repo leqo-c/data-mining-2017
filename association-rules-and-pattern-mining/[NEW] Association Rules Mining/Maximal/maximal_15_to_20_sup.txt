@@ -1,0 +1,4 @@
+['2_NP', '2_to_3_TSC', '0_L', '0_WA'] support = 19.5946
+['50_LE', '2_to_3_TSC', '0_L', '0_WA'] support = 17.7945
+['70_LE', '2_to_3_TSC', '0_L', '0_WA'] support = 15.5677
+['4_to_6_TSC', '0_L', '0_WA'] support = 15.4277

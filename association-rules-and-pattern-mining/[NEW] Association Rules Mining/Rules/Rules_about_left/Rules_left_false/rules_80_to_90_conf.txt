@@ -1,0 +1,7 @@
+['medium_SAL', '4_NP'] -> 0_L, lift = 115.037, confidence = 87.6488
+['medium_SAL', '2_to_3_TSC'] -> 0_L, lift = 112.666, confidence = 85.8422
+['medium_SAL', '2_to_3_TSC', '0_WA'] -> 0_L, lift = 110.566, confidence = 84.2419
+['4_NP', '0_WA'] -> 0_L, lift = 110.233, confidence = 83.9887
+['high_SAT', '0_WA'] -> 0_L, lift = 108.829, confidence = 82.9186
+['4_NP', 'low_SAL'] -> 0_L, lift = 107.343, confidence = 81.7861
+['2_to_3_TSC', '0_WA'] -> 0_L, lift = 106.318, confidence = 81.0056
